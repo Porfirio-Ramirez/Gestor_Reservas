@@ -29,17 +29,6 @@ El servicio debe ser 1, 2 o 3
 Máximo 10 reservas por día
 
 
-
-Estructura del proyecto
-
-GestorDeReservas/
-└── src/
-    ├── App.java          → Arranque y ciclo del menú
-    ├── Menu.java         → Muestra opciones y lee la elección
-    ├── Validador.java    → Valida hora, nombre y servicio
-    └── Operaciones.java  → Arreglos paralelos y lógica del negocio
-
-
 ¿Cómo ejecutarlo?
 
 Requisitos
